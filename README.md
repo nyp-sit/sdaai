@@ -1,2 +1,2 @@
-# sdaai
-Specialist Diploma for Applied AI
+# Specialist Diploma for Applied AI
+
