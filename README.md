@@ -41,7 +41,7 @@
 
 ### C-Q3
 **Question**: Can I check if the mode of learning for this Specialist Diploma - how much am I required to be on campus? 
-- The classes are conducted in a hybrid mode, i.e. face-to-face and online at the same time. The sessions are recorded as well. You'll need to have at least 50% attendance to pass the module.
+- The classes are conducted in a hybrid mode, i.e. face-to-face and online via Zoom at the same time. The sessions are also being recorded. The classes are usually conducted on every Monday, Wednesday and Thursday during the semester. This is subjected to changes, please refer to the Learning Unit Plan for the detailed information. You'll need to have at least 50% attendance to pass the module.
 
 ### C-Q4
 **Question**: Is there an exam component to this or is it mostly project based?
