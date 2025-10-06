@@ -56,7 +56,12 @@
 ## Exemption
 ### E-Q1
 **Question**: I would like to find out what are the modules that I can be exempted from the courses for Specialist Diploma in Applied Artificial Intelligence as I completed Specialist Diploma in Business and Big Data Analytics at NYP last semester.
-- For our PDC in Machine Learning & Operations, we can consider module exemption for one of the module (Applied Machine Learning). For PDC in Generative AI & Deep Learning, we are unable to extend any module exemption. 
+- For our PDC in Machine Learning & Operations, we can consider module exemption for one of the module (Applied Machine Learning). For PDC in Generative AI & Deep Learning, we are unable to extend any module exemption.
+
+## Deferment & Withdrawal
+### DW-Q1
+**Question**: Can I withdraw from the course after my application?
+- There will be no refund for any deferment or withdrawal after the course has started. You can submit your deferment / withdrawal request through STEP portal.
 
 ## Attendance 
 
@@ -74,3 +79,11 @@
 **Question**: Understand that a personal PC or laptop with NVIDIA GPU is needed for PDC2, I would like to check if IGPU PC is good enough? If not, I will explore PC/laptop with dedicated GPU. 
 - Integrated graphics won’t help much in terms of compute acceleration. Most training framework works best when using NVIDIA GPU, although AMD now can also be supported through the use of ROCM, but they are not as widely supported as compared to NVIDIA (and not so stable as well).
 - For our course, most of the time you can just use the free GPU resources available on Google Colab or Kaggle, and for project, we also cater additional GPU resources if necessary.  So there is not really a need to purchase any GPU laptop. However. If you would like to experiment with setting up a deep learning environment, for your own purposes and for some weekend projects, an NVIDIA GPU will be very helpful.
+
+### LR-Q2
+**Question**: What is the laptop requirement for this Specialist Diploma? 
+- Lab PCs will be provided for in-class lessons. Personal PC or laptop will be required for you to complete your assignment or for hands-on during Zoom lessons.
+- Recommended personal PC/laptop specifications: Intel i7 processor or better, 16GB RAM or more, NVIDIA GPU (optional, for PDC2 only)
+
+
+
