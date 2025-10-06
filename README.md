@@ -40,8 +40,12 @@
 - For project module, usually 2 to 3 people will work on a proposed project, with the guidance of project mentor. This is where student can come up with innovative ideas, in any industry/sector and  work on implementing a MVP. We will occasionally invite industry partners to give talks to our students.
 
 ### C-Q3
-**Question**: Can I check if the mode of learning for this SD - how much am I required to be on campus? 
-- The classes are conducted in hybrid mode, i.e. face-to-face and online at the same time. At the same time, the sessions are recorded as well. You need to have at least 50% attendance to pass the module. 
+**Question**: Can I check if the mode of learning for this Specialist Diploma - how much am I required to be on campus? 
+- The classes are conducted in a hybrid mode, i.e. face-to-face and online at the same time. The sessions are recorded as well. You'll need to have at least 50% attendance to pass the module.
+
+### C-Q4
+**Question**: Is there an exam component to this or is it mostly project based?
+- The learning units will consist of tests and assignment. There is also a project-based learning unit where you will be working with 2 to 3 people on a proposed project with the guidance of project mentor(s). 
 
 ## Credit Transfer
 
