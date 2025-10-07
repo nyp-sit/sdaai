@@ -1,4 +1,15 @@
-# Specialist Diploma for Applied AI (FAQ)
+# Specialist Diploma for Applied AI
+# Freqently Asked Questions (FAQ)
+This documentation contains a list of frequently asked questions related to the Specialist Diploma. 
+It consists of the following sections: 
+- [Course Application](https://github.com/nyp-sit/sdaai/#course-application)
+- [Course Information](https://github.com/nyp-sit/sdaai/#course)
+- [Credit Transfer](https://github.com/nyp-sit/sdaai/#credit-transfer)
+- [Exemption](https://github.com/nyp-sit/sdaai/#exemption)
+- [Withdrawal/Deferment](https://github.com/nyp-sit/sdaai/#deferment--withdrawal)
+- [Attendance](https://github.com/nyp-sit/sdaai/#attendance)
+- [Laptop Requirement](https://github.com/nyp-sit/sdaai/#laptop-requirement)
+- [Certificates](https://github.com/nyp-sit/sdaai/#cerificates)
 
 ## Course Application
 
@@ -28,7 +39,7 @@
 **Question**: I have just applied through the STMS portal. May I know how long the process of applications usually takes?
 - You should be able to know your application result, a few weeks before the new semester starts in mid-April or mid-October. 
 
-## Course
+## Course 
 
 ### C-Q1
 **Question**: Where can I find more information about the course?
@@ -84,6 +95,11 @@
 **Question**: What is the laptop requirement for this Specialist Diploma? 
 - Lab PCs will be provided for in-class lessons. Personal PC or laptop will be required for you to complete your assignment or for hands-on during Zoom lessons.
 - Recommended personal PC/laptop specifications: Intel i7 processor or better, 16GB RAM or more, NVIDIA GPU (optional, for PDC2 only)
+
+## Certificates
+### C-Q1
+**Question**: For the previous pdc, would nyp gives us physical certificate of completion/transcript? If yes, how to collect it?
+- Physical certificate will not be issued.  All the certificates will be issued as OpenCert.  You can choose to download or print the opencert on your own.
 
 
 
