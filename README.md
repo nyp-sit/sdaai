@@ -110,7 +110,25 @@ It consists of the following sections:
 - For those non-company sponsored students, we will help you with registration for next PDC. Once it is approved, you will receive the notification of the offer and you can accept (or reject) the offer and then make the fee payment.
 - For those company-sponsored students, we have uploaded your name for sponsorship and have informed your company HR to verify the sponsorship.
 
+## Student Card
 
+### SC-Q1
+**Question**: How do I upload my photo for the student card? 
+- Login to STEP and sign as Student in using your Singpass.
+- After you have signed in successfully, click and select "My profile" on the top right-hand corner.
+- A web page of your personal particular will be displayed. 
+- You should see a dummy photo being displayed along with the "Upload your photo" button and "view photo requirements"
+- Click on the "view photo requirements" to view the photo requirements.
+- Here are the photo requirements:
+   1. Spectacles must have clear and untainted lenses where the eyes are fully visible and spectacles should not cover the eyes.
+   2. Head gear/attire must be dark in colour against light-coloured background. Poor colour contrast of clothing and background will not be allowed.
+   3. Dark colour photo background is not allowed.
+   4. Size: ≥ 60 KB; Resolution ≥ 640 pixels * 480 pixels (Height x Width).
+ - You are strongly encouraged to attempt and upload your photo on your own in the STEP portal. Please evaluate the photo requirements carefully. 
 
+### SC-Q2
+**Question**: Is it compulsory to upload my photo?
+- The photo will be used to produce the NYP student card. Without the student card, you will not be able to access the laboratories, classrooms etc especially after office hours. 
+- The student card may also be used for identification during the conduct of Tests in campus. 
 
 
