@@ -73,6 +73,8 @@ It consists of the following sections:
 ### DW-Q1
 **Question**: Can I withdraw from the course after my application?
 - There will be no refund for any deferment or withdrawal after the course has started. You can submit your deferment / withdrawal request through STEP portal.
+- Please note that a 100% refund will be available if the withdrawal request is submitted more than or equal to 14 days before the course start date. And a 50% refund will be available if the withdrawal request is submitted less than 14 days before the course start date.
+
 
 ## Attendance 
 
