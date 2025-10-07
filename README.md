@@ -9,7 +9,7 @@ It consists of the following sections:
 - [Withdrawal/Deferment](https://github.com/nyp-sit/sdaai/#deferment--withdrawal)
 - [Attendance](https://github.com/nyp-sit/sdaai/#attendance)
 - [Laptop Requirement](https://github.com/nyp-sit/sdaai/#laptop-requirement)
-- [Certificates](https://github.com/nyp-sit/sdaai/#cerificates)
+- [Progression](https://github.com/nyp-sit/sdaai/#progression)
 
 ## Course Application
 
@@ -96,10 +96,19 @@ It consists of the following sections:
 - Lab PCs will be provided for in-class lessons. Personal PC or laptop will be required for you to complete your assignment or for hands-on during Zoom lessons.
 - Recommended personal PC/laptop specifications: Intel i7 processor or better, 16GB RAM or more, NVIDIA GPU (optional, for PDC2 only)
 
-## Certificates
-### C-Q1
+## Progression
+
+### Pro-Q1
 **Question**: For the previous pdc, would nyp gives us physical certificate of completion/transcript? If yes, how to collect it?
 - Physical certificate will not be issued.  All the certificates will be issued as OpenCert.  You can choose to download or print the opencert on your own.
+
+### Pro-Q2
+**Question**: If I have completed the PDC, do I need to register for the next PDC? 
+- After the release of the semester result, Students who have successfully completed the current PDC, would be enrolled to the next PDC. 
+- For those non-company sponsored students, we will help you with registration for next PDC. Once it is approved, you will receive the notification of the offer and you can accept (or reject) the offer and then make the fee payment.
+- For those company-sponsored students, we have uploaded your name for sponsorship and have informed your company HR to verify the sponsorship.
+
+
 
 
 
