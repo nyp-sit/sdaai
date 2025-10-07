@@ -37,7 +37,7 @@ It consists of the following sections:
 
 ### CA-Q6
 **Question**: I have just applied through the STMS portal. May I know how long the process of applications usually takes?
-- You should be able to know your application result, a few weeks before the new semester starts in mid-April or mid-October. 
+- You should be able to know your application result, a few weeks before the new semester starts in mid-April or mid-October. Once it is successful, you will receive the notification of the offer and you can accept (or reject) the offer and then make the fee payment.
 
 ## Course 
 
