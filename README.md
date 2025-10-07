@@ -10,6 +10,7 @@ It consists of the following sections:
 - [Attendance](https://github.com/nyp-sit/sdaai/#attendance)
 - [Laptop Requirement](https://github.com/nyp-sit/sdaai/#laptop-requirement)
 - [Progression](https://github.com/nyp-sit/sdaai/#progression)
+- [Student Card](https://github.com/nyp-sit/sdaai/#student-card)
 
 ## Course Application
 
