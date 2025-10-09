@@ -111,6 +111,10 @@ It consists of the following sections:
 - For those non-company sponsored students, we will help you with registration for next PDC. Once it is approved, you will receive the notification of the offer and you can accept (or reject) the offer and then make the fee payment.
 - For those company-sponsored students, we have uploaded your name for sponsorship and have informed your company HR to verify the sponsorship.
 
+### Pro-Q3
+**Question**: Due to changes on the work front, I'd need to adjust my upskill plan and focus accordingly. As such, I wonder if I could withdraw/defer my enrolment to PDC2?
+- You can defer the enrolment by not accepting the offer, When you received a STEP notification of the next PDC offering. 
+
 ## Student Card
 
 ### SC-Q1
