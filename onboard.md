@@ -9,7 +9,7 @@ Question: I have accepted the course offering, what do I need to do after that?
 - After accepting the course offering, the following events will happen:
   - Make the course payment once you have accepted the offer. 
   - Attend the course briefing conducted by the Course Manager prior to the start of the course.
-  - Upload your photo in STEP. The photo requirement is listed in STEP.
+  - Upload your photo in STEP. The photo requirement is listed in STEP via https://stms.polite.edu.sg/identity
   - Upon receipt of your NYP email address, check your access via Outlook.
   - Upon receipt of your NYP lab access, check your access in the Lab PC.
  
@@ -17,7 +17,7 @@ Question: I have accepted the course offering, what do I need to do after that?
 
 ### WA01
 Question: How do I connect to the WIFI in the campus?
-- Enable the WIFI mode on your laptop or phone. Search for the WIFI with the name "POLITE-CET". Enter your STEP Student ID and password. NOTE: the password must be setup in STEP profile first. 
+- Enable the WIFI mode on your laptop or phone. Search for the WIFI with the name "POLITE-CET". Enter your STEP Student ID and password. NOTE: the password must be setup in STEP profile first via https://stms.polite.edu.sg/identity.
 
 ## NYP Email Account
 
@@ -32,8 +32,17 @@ Question: What can I do with the NYP email account?
 Question: Where can I find the information pertaining to the NYP Email Account? 
 - You should receive an email sent with the subject "Your NYP AAD Account" from the sender "notification@nyp.edu.sg".
 
+## Course Communication
+Question: How will the communication be done for the course that I have signed up?
+- All email reminders will be sent to your personal email address (registered in STEP via https://stms.polite.edu.sg/identity). Notification and announcement can also be seen when you login to STEP.
+- **IMPORTANT**: Check your personal email and the individual learning unit/module announcements in POLITEMall regularly!
+
 ## Laboratory PC Access
 
+### LA01
+Question: I cannot login to the Lap PC. What should I do?
+- Please use your NYP email account credential to login the PCs in the laboratory. If you have forgotten your password, you can reset it here: Microsoft Online Password Reset via https://passwordreset.microsoftonline.com/.
+- For any assistance, please contact the SIT IT Helpdesk at BLK L, Level 4 Service Desk or email to nyp-sit-helpdesk@nyp.edu.sg
 
 ## Student Card
 
@@ -69,3 +78,17 @@ Question: How do I access Politemall?
 Question: Where can I find the contact information for the module or learning unit tutor? 
 - You can find the contact information of the tutor in Politemall under the Learning Unit Introduction folder.
 
+## Attendance
+
+### AA01
+Question: Why do I need to always scan the QR code?
+- Attendance via QR code and it's mandated by SSG. Please Make sure your SingPass account has been set up and SingPass app has been downloaded to your mobile.
+
+### AA02
+Question: How do I mark my attendance?
+- Each learning unit has its own attendance link, please check the attendance link in Politemall under the Learning Unit. Click on the link, indicate your profile as Student or Attendee. A QR code will be displayed. Scan the QR code using your phone camera function (NOTE: not using the Singpass scan function).
+- If you encountered persistent issues despite multiple attempts to record your attendance, please send an email to your tutor indicating your issues and state your attendance for the date concerned during the class period. 
+
+### AA03
+Question: Where can I find the regulations pertaining to attendance matter?
+- The complete information is available at our Student Handbook published at NYP website via https://mynypportal.nyp.edu.sg/en/student-handbook.html.
