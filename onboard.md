@@ -11,7 +11,6 @@ Question: I have accepted the course offering, what do I need to do after that?
   - Attend the course briefing conducted by the Course Manager prior to the start of the course.
   - Upload your photo in STEP. The photo requirement is listed in STEP via https://stms.polite.edu.sg/identity
   - Upon receipt of your NYP email address, check your access via Outlook.
-  - Upon receipt of your NYP lab access, check your access in the Lab PC.
  
 ## WIFI Access
 
@@ -52,7 +51,11 @@ Question: What happen if I don't submit my photo in STEP?
 
 ### SC02
 Question: What is the requirement for the photo upload? 
-- Profile photo requirements: White background; Minimum face size with pupillary distance of more than 60 pixels; Photo file size must be between 60KB and 200KB with resolution more than 640 x 480 (H x W). 
+- Profile photo requirements: White background; Minimum face size with pupillary distance of more than 60 pixels; Photo file size must be between 60KB and 200KB with resolution more than 640 x 480 (H x W).
+
+### SC03
+Question: Where do I collect my student card?
+- The Student Admin card will be issued to you physically (usually via your tutor in class) in the first few weeks of the new semester. Special arrangement has been made for you to access the Level 5 during the processing period. 
 
 ## Zoom Access
 
@@ -63,7 +66,11 @@ Question: How do I get to the online lesson via Zoom?
 ### ZA02
 Question: Can I install the Zoom on my laptop? 
 - Yes, you can. Go to https://zoom.us/download. Select the appropriate operating system based on your laptop (Window, Mac or Phone) for Zoom Workplace. After a successful download, click and run the installation process, accepting all the default recommendations.
-- Once installed, launch the Zoom Workplace and login using SSO option via "nyp-sg.zoom.us". Please enter the NYP Email Address Account information.  
+- Once installed, launch the Zoom Workplace and login using SSO option via "nyp-sg.zoom.us". Please enter the NYP Email Address Account information.
+
+### ZA03
+Question: Where can I find the recorded session?
+- All recorded sessions will be available in Politemall. Each learning unit may have a different setup. Please look out for folder with the name "Recording", "Recorded Lessons" etc. For more details, please check with your tutor directly.
 
 ## Politemall Access
 
