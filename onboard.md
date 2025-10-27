@@ -4,14 +4,14 @@ Please refer to the appropriate section below. If you cannot find the right info
 
 - [Onboarding Process](https://github.com/nyp-sit/sdaai/blob/main/onboard.md#onboarding-process)
 - [WIFI Access](https://github.com/nyp-sit/sdaai/blob/main/onboard.md#wifi-access)
-- [NYP Email Account](https://github.com/nyp-sit/sdaai/edit/main/onboard.md#nyp-email-account)
-- [Course Communication](https://github.com/nyp-sit/sdaai/edit/main/onboard.md#course-communication)
-- [Lab PC Access](https://github.com/nyp-sit/sdaai/edit/main/onboard.md#laboratory-pc-access)
-- [Student Card](https://github.com/nyp-sit/sdaai/edit/main/onboard.md#student-card)
-- [Zoom Access](https://github.com/nyp-sit/sdaai/edit/main/onboard.md#zoom-access)
-- [Politemall Access](https://github.com/nyp-sit/sdaai/edit/main/onboard.md#politemall-access)
-- [Tutor Information](https://github.com/nyp-sit/sdaai/edit/main/onboard.md#tutor-information)
-- [Attendance](https://github.com/nyp-sit/sdaai/edit/main/onboard.md#attendance)
+- [NYP Email Account](https://github.com/nyp-sit/sdaai/blob/main/onboard.md#nyp-email-account)
+- [Course Communication](https://github.com/nyp-sit/sdaai/blob/main/onboard.md#course-communication)
+- [Lab PC Access](https://github.com/nyp-sit/sdaai/blob/main/onboard.md#laboratory-pc-access)
+- [Student Card](https://github.com/nyp-sit/sdaai/blob/main/onboard.md#student-card)
+- [Zoom Access](https://github.com/nyp-sit/sdaai/blob/main/onboard.md#zoom-access)
+- [Politemall Access](https://github.com/nyp-sit/sdaai/blob/main/onboard.md#politemall-access)
+- [Tutor Information](https://github.com/nyp-sit/sdaai/blob/main/onboard.md#tutor-information)
+- [Attendance](https://github.com/nyp-sit/sdaai/blob/main/onboard.md#attendance)
 
 ## Onboarding Process
 
