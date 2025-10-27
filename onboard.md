@@ -2,6 +2,17 @@
 Welcome to Nanyang Polytechnic, School of Information Technology. This document contains the list of frequently asked questions pertaining to your on-boarding. 
 Please refer to the appropriate section below. If you cannot find the right information for your problem or question, please direct it to the Course Manager or Course Coordinator.
 
+- [Onboarding Process](https://github.com/nyp-sit/sdaai/blob/main/onboard.md#onboarding-process)
+- [WIFI Access](https://github.com/nyp-sit/sdaai/blob/main/onboard.md#wifi-access)
+- [NYP Email Account](https://github.com/nyp-sit/sdaai/edit/main/onboard.md#nyp-email-account)
+- [Course Communication](https://github.com/nyp-sit/sdaai/edit/main/onboard.md#course-communication)
+- [Lab PC Access](https://github.com/nyp-sit/sdaai/edit/main/onboard.md#laboratory-pc-access)
+- [Student Card](https://github.com/nyp-sit/sdaai/edit/main/onboard.md#student-card)
+- [Zoom Access](https://github.com/nyp-sit/sdaai/edit/main/onboard.md#zoom-access)
+- [Politemall Access](https://github.com/nyp-sit/sdaai/edit/main/onboard.md#politemall-access)
+- [Tutor Information](https://github.com/nyp-sit/sdaai/edit/main/onboard.md#tutor-information)
+- [Attendance](https://github.com/nyp-sit/sdaai/edit/main/onboard.md#attendance)
+
 ## Onboarding Process
 
 ### OPQ1
