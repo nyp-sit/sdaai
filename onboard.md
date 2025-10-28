@@ -22,7 +22,14 @@ Question: I have accepted the course offering, what do I need to do after that?
   - Attend the course briefing conducted by the Course Manager prior to the start of the course.
   - Upload your photo in STEP. The photo requirement is listed in STEP via https://stms.polite.edu.sg/identity
   - Upon receipt of your NYP email address, check your access via Outlook.
- 
+
+### OP02
+Question: What are the internet links needed for this course?
+- STEP: https://stms.polite.edu.sg/identity
+- Politemall: https://lms.polite.edu.sg/d2l/home
+- Zoom (Web): https://zoom.us/join
+- Student Portal: https://mynypportal.nyp.edu.sg
+
 ## WIFI Access
 
 ### WA01
