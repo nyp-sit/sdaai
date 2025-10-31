@@ -20,8 +20,8 @@ Question: I have accepted the course offering, what do I need to do after that?
 - After accepting the course offering, the following events will happen:
   - Make the course payment once you have accepted the offer. 
   - Attend the course briefing conducted by the Course Manager prior to the start of the course.
-  - Upload your photo in STEP. The photo requirement is listed in STEP via https://stms.polite.edu.sg/identity
-  - Upon receipt of your NYP email address, check your access via Outlook.
+  - Upload your photo in STEP. The photo requirement is listed in STEP via https://stms.polite.edu.sg/identity or you can refer to [Student Card](https://github.com/nyp-sit/sdaai/blob/main/onboard.md#student-card)
+  - Upon receipt of your NYP email address, check your access via Outlook - https://outlook.com 
 
 ### OP02
 Question: What are the internet links needed for this course?
