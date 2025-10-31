@@ -48,10 +48,31 @@ Question: What can I do with the NYP email account?
 ### EA02
 Question: Where can I find the information pertaining to the NYP Email Account? 
 - You should receive an email sent with the subject "Your NYP AAD Account" from the sender "notification@nyp.edu.sg".
+- The email should look like this:
+  ```
+  From: notification@nyp.edu.sg <notification@nyp.edu.sg>
+  To: xxx@xxxx.COM
+  Subject: Your NYP AAD Account
+  Message Classification: Official (Closed) and Sensitive Normal
+  Dear JOSEPH 
+  Please be informed that your NYP AAD account has been created.
+  Your username is 1234567A@myaccount.nyp.edu.sg
+  Your password is 
+  Go to https://outlook.com to access NYP Email mailbox with the new NYP AAD account. For the first login, you will be prompted to set up the multi-factor authentication (MFA).
+  If you have problems logging into your account, please approach the following:
+     Student IT Helpdesk.
+     Location: Blk A, Level 1, A.158
+     Operating Hours: Mon-Thu (0900-1730); Fri (0900-1700); Closed on Sat/Sun/Public Holidays
+     Contact No: 6550 0099
+  ```
 
 ### EA03
 Question: I cannot login to the email account despite contacting the Administrator? 
 - You want want to try resetting it via Microsoft Online Password Reset via https://passwordreset.microsoftonline.com/.
+- If you have problems logging into your account, please approach the following: Student IT Helpdesk:
+     - Location: Blk A, Level 1, A.158
+     - Operating Hours: Mon-Thu (0900-1730); Fri (0900-1700); Closed on Sat/Sun/Public Holidays
+     - Contact No: 6550 0099
 
 ## Course Communication
 Question: How will the communication be done for the course that I have signed up?
