@@ -104,7 +104,9 @@ Question: Where do I collect my student card?
 
 ### ZA01
 Question: How do I get to the online lesson via Zoom?
-- Each learning unit has its own Zoom link, please check the zoom link in Politemall under the Learning Unit. 
+- Each learning unit has its own Zoom link, please check the zoom link in Politemall under the Learning Unit.
+- After getting the Zoom link, click on it and it should bring you to the Zoom website. You may want to install the Zoom program on your laptop. The instructions to install the Zoom application is just below.
+- Please mute your mic once you joined the online lesson. You can turn it on if you have question for the tutor. 
 
 ### ZA02
 Question: Can I install the Zoom on my laptop? 
