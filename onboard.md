@@ -49,6 +49,10 @@ Question: What can I do with the NYP email account?
 Question: Where can I find the information pertaining to the NYP Email Account? 
 - You should receive an email sent with the subject "Your NYP AAD Account" from the sender "notification@nyp.edu.sg".
 
+### EA03
+Question: I cannot login to the email account despite contacting the Administrator? 
+- You want want to try resetting it via Microsoft Online Password Reset via https://passwordreset.microsoftonline.com/.
+
 ## Course Communication
 Question: How will the communication be done for the course that I have signed up?
 - All email reminders will be sent to your personal email address (registered in STEP via https://stms.polite.edu.sg/identity). Notification and announcement can also be seen when you login to STEP.
