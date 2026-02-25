@@ -40,6 +40,10 @@ It consists of the following sections:
 **Question**: I have just applied through the STMS portal. May I know how long the process of applications usually takes?
 - You should be able to know your application result, a few weeks before the new semester starts in mid-April or mid-October. Once it is successful, you will receive the notification of the offer and you can accept (or reject) the offer and then make the fee payment.
 
+### CA-Q7
+**Question**: I have submitted my application for AIML course. May I know what is the next step and by when would I know the outcome of my application?
+- Once you have submitted your application, we will review your application. If your application is successful, you will receive a notification from STEP. Usually 2-5 weeks or earlier before the commercement of the course.  
+
 ## Course 
 
 ### C-Q1
