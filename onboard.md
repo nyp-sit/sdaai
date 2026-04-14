@@ -89,8 +89,12 @@ Question: I cannot login to the Lap PC. What should I do?
 ## Student Card
 
 ### SC01
-Question: What happen if I don't submit my photo in STEP? 
-- The Student Admin card is required to access the door at Level 3 and Level 5 of SIT Building. The Student Admin card will only be printed for those with profile photo in STEP.
+Question: How to submit my photo in STEP? 
+- 1. Login to STEP via https://stms.polite.edu.sg/identity 
+- 2. Click on your profile icon on the top right-hand corner.
+- 3. Select "My Profile", you will see the Personal Particular page being displayed.
+- 4. Click on the button "Upload your photo" to upload the image file. 
+- 5. Click on the link "View photo requirements" to know the requirements for the photo. 
 
 ### SC02
 Question: What is the requirement for the photo upload? 
@@ -98,7 +102,11 @@ Question: What is the requirement for the photo upload?
 
 ### SC03
 Question: Where do I collect my student card?
-- The Student Admin card will be issued to you physically (usually via your tutor in class) in the first few weeks of the new semester. Special arrangement has been made for you to access the Level 5 during the processing period. 
+- The Student Admin card will be issued to you physically (usually via your tutor in class) in the first few weeks of the new semester. Special arrangement has been made for you to access the Level 5 during the processing period.
+
+### SC04
+Question: What happen if I don't submit my photo in STEP? 
+- The Student Admin card is required to access the door at Level 3 and Level 5 of SIT Building. The Student Admin card will only be printed for those with profile photo in STEP.
 
 ## Zoom Access
 
