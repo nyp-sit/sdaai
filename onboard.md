@@ -90,11 +90,11 @@ Question: I cannot login to the Lap PC. What should I do?
 
 ### SC01
 Question: How to submit my photo in STEP? 
-- 1. Login to STEP via https://stms.polite.edu.sg/identity 
-- 2. Click on your profile icon on the top right-hand corner.
-- 3. Select "My Profile", you will see the Personal Particular page being displayed.
-- 4. Click on the button "Upload your photo" to upload the image file. 
-- 5. Click on the link "View photo requirements" to know the requirements for the photo. 
+- Login to STEP via https://stms.polite.edu.sg/identity 
+- Click on your profile icon on the top right-hand corner.
+- Select "My Profile", you will see the Personal Particular page being displayed.
+- Click on the button "Upload your photo" to upload the image file. 
+- Click on the link "View photo requirements" to know the requirements for the photo. 
 
 ### SC02
 Question: What is the requirement for the photo upload? 
