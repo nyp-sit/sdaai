@@ -131,8 +131,8 @@ Question: Where can I find the recorded session?
 Question: How do I access Politemall?
 - Method 1: Via STEP
   1. Login to STEP via https://stms.polite.edu.sg/identity
-  2. Navigate to your course
-  3. Select the learning unit (module)
+  2. On the left panel, click on the "My course" icon. Select the appropriate course (Example: Post-Diploma Certificate in Machine Learning & Operation)
+  3. Select the learning unit (Example: NYP-ITI112-MLOps for Trustworthy AI)
   4. Click on the POLITEMall link located in the top right-hand corner. 
 - Method 2: Direct to POLITEMall
   1. Navigate to POLITEMall via https://politemall.polite.edu.sg.
