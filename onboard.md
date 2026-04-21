@@ -137,7 +137,8 @@ Question: How do I access Politemall?
 - Method 2: Direct to POLITEMall
   1. Navigate to POLITEMall via https://politemall.polite.edu.sg.
   2. Click on Login and click on the STEP logo
-  3. Login using STEP Student ID and password
+     - In case you have accidentally click on the NYP logo, please clear the cache in the browser or try Incognito mode. 
+  4. Login using STEP Student ID and password
      (NOTE: password must be setup in STEP profile first)
      - To retrieve your STEP Student ID:
        1. Go to POLITEMall via https://loginhub.polite.edu.sg/?target=%2fd2l%2fhome
