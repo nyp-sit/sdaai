@@ -140,15 +140,15 @@ Question: How do I access Politemall?
   3. Login using STEP Student ID and password
      (NOTE: password must be setup in STEP profile first)
      - To retrieve your STEP Student ID:
-       a. Go to POLITEMall via https://loginhub.polite.edu.sg/?target=%2fd2l%2fhome
-       b. Click on the STEP Logo
-       c. Click on the link "Retrieve student ID"
-       d. Provide your email address that is registered with STEP and click on the button "Send OTP"
-       c. Retrieve the OTP code and enter the value in the OTP field
+       1. Go to POLITEMall via https://loginhub.polite.edu.sg/?target=%2fd2l%2fhome
+       2. Click on the STEP Logo
+       3. Click on the link "Retrieve student ID"
+       4. Provide your email address that is registered with STEP and click on the button "Send OTP"
+       5. Retrieve the OTP code and enter the value in the OTP field
      - To setup the password:
-       a. Login to STEP
-       b. Navigate to My security under profile on your top right-hand corner
-       c. You will be directed to a secure environment to change your password.
+       1. Login to STEP
+       2. Navigate to My security under profile on your top right-hand corner
+       3. You will be directed to a secure environment to change your password.
   
 ## Tutor Information
 
