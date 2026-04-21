@@ -129,9 +129,20 @@ Question: Where can I find the recorded session?
 
 ### PA01
 Question: How do I access Politemall?
-- Method 1: Login to STEP via https://stms.polite.edu.sg/identity, navigate to your course; Select the learning unit (module); Click on the POLITEMall link located in the top right-hand corner. 
-- Method 2: Navigate to POLITEMall via https://politemall.polite.edu.sg. Click on Login and click on the STEP logo; Login using STEP Student ID and password (NOTE: password must be setup in STEP profile first)
-  - To setup the password: Login to STEP, navigate to My security under profile on your top right-hand corner. You will be directed to a secure environment to change your password.
+- Method 1: Via STEP
+  1. Login to STEP via https://stms.polite.edu.sg/identity
+  2. Navigate to your course
+  3. Select the learning unit (module)
+  4. Click on the POLITEMall link located in the top right-hand corner. 
+- Method 2: Direct to POLITEMall
+  1. Navigate to POLITEMall via https://politemall.polite.edu.sg.
+  2. Click on Login and click on the STEP logo
+  3. Login using STEP Student ID and password
+     (NOTE: password must be setup in STEP profile first)
+     - To setup the password:
+       a) Login to STEP
+       b) Navigate to My security under profile on your top right-hand corner
+       c) You will be directed to a secure environment to change your password.
   
 ## Tutor Information
 
