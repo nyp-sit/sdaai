@@ -42,7 +42,18 @@ It consists of the following sections:
 
 ### CA-Q7
 **Question**: I have submitted my application for AIML course. May I know what is the next step and by when would I know the outcome of my application?
-- Once you have submitted your application, we will review your application. If your application is successful, you will receive a notification from STEP. Usually 2-5 weeks or earlier before the commercement of the course.  
+- Once you have submitted your application, we will review your application. If your application is successful, you will receive a notification from STEP. Usually 2-5 weeks or earlier before the commercement of the course.
+
+### CA-Q8
+**Questions**: What is the minimum entry requirement?
+- Minimum Entry Requirements
+  - Applicants must satisfy at least one of the following entry requirements:
+  - A recognized a degree (or higher) in IT (or related fields)
+  - A diploma from a polytechnic or ITE in Singapore with a minimum of 2 years related working experience in IT or related fields.
+- Recognition of Prior Learning
+  - Applicants who do not meet the entry requirements may be considered for admission to the course based on:
+  - Evidence of at least 5 years of relevant working experience in IT or related fields; OR Supporting evidence of competency readiness.
+  - Suitable applicants who are shortlisted will have to go through an interview and/or entrance test. The Polytechnic reserves the right to shortlist and admit applicants.
 
 ## Course 
 
