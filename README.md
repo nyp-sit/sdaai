@@ -48,8 +48,8 @@ It consists of the following sections:
 **Questions**: What is the minimum entry requirement?
 - Minimum Entry Requirements
   - Applicants must satisfy at least one of the following entry requirements:
-  - A recognized a degree (or higher) in IT (or related fields)
-  - A diploma from a polytechnic or ITE in Singapore with a minimum of 2 years related working experience in IT or related fields.
+    - A recognized a degree (or higher) in IT (or related fields)
+    - A diploma from a polytechnic or ITE in Singapore with a minimum of 2 years related working experience in IT or related fields.
 - Recognition of Prior Learning
   - Applicants who do not meet the entry requirements may be considered for admission to the course based on:
   - Evidence of at least 5 years of relevant working experience in IT or related fields; OR Supporting evidence of competency readiness.
