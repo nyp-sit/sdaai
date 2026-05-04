@@ -3,7 +3,7 @@
 This documentation contains a list of frequently asked questions related to the Specialist Diploma. 
 It consists of the following sections: 
 - [Course Application](https://github.com/nyp-sit/sdaai/#course-application)
-- [Funding](https://github.com/nyp-sit/sdaai/#course-funding)
+- [Course Funding](https://github.com/nyp-sit/sdaai/#course-funding)
 - [Course Information](https://github.com/nyp-sit/sdaai/#course)
 - [Credit Transfer](https://github.com/nyp-sit/sdaai/#credit-transfer)
 - [Exemption](https://github.com/nyp-sit/sdaai/#exemption)
