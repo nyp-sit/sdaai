@@ -3,6 +3,7 @@
 This documentation contains a list of frequently asked questions related to the Specialist Diploma. 
 It consists of the following sections: 
 - [Course Application](https://github.com/nyp-sit/sdaai/#course-application)
+- [Funding](https://github.com/nyp-sit/sdaai/#course-funding)
 - [Course Information](https://github.com/nyp-sit/sdaai/#course)
 - [Credit Transfer](https://github.com/nyp-sit/sdaai/#credit-transfer)
 - [Exemption](https://github.com/nyp-sit/sdaai/#exemption)
@@ -54,6 +55,12 @@ It consists of the following sections:
   - Applicants who do not meet the entry requirements may be considered for admission to the course based on:
   - Evidence of at least 5 years of relevant working experience in IT or related fields; OR Supporting evidence of competency readiness.
   - Suitable applicants who are shortlisted will have to go through an interview and/or entrance test. The Polytechnic reserves the right to shortlist and admit applicants.
+ 
+## Course Funding
+### CF-Q1
+**Question**: Am I eligible for SSG subsidy?
+- Singapore Permanent Residents (SPR) will only be eligible for subsidy for first part-time diploma and first post diploma (i.e. first Advanced Diploma, first Specialist Diploma and first Diploma (Conversion) respectively. This is subjected to SPR not having previously attained a qualification at the diploma or higher level that was subsidised through a MOE subsidy or Government sponsorship. NYP reserves the right to reschedule/cancel any programme and amend the fees/info without prior notice. Refer to SSG Course Fee Funding & Eligibility for more information on the funding support: https://www.ssg.gov.sg/funding-and-levy/funding-for-individuals/ 
+
 
 ## Course 
 
