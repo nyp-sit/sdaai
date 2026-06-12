@@ -175,12 +175,12 @@ Question: Where can I find the regulations pertaining to attendance matter?
 ### AA04
 Question: how to apply for SOA (Statement of Absence)?
 - Go to STEPS (https://stms.polite.edu.sg)
-	• Select Request & Task on the left panel
-	• Click on the button "Raise request" with Nanyang Polytechnic
-	• Select LOA for Assessments
-	• Indicate the Start date and End date of Leave of Absence
-	• Indicate the Assessment Component that you were absent from
-	• Then click on the submit button with the supporting documents
+- Select Request & Task on the left panel
+- Click on the button "Raise request" with Nanyang Polytechnic
+- Select LOA for Assessments
+- Indicate the Start date and End date of Leave of Absence
+- Indicate the Assessment Component that you were absent from
+- Then click on the submit button with the supporting documents
 
 ### AA05
 Question: If I am absent from my examination, when must I submit my medical certificate (MC)?
