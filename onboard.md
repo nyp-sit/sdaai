@@ -171,3 +171,21 @@ Question: How do I mark my attendance?
 ### AA03
 Question: Where can I find the regulations pertaining to attendance matter?
 - The complete information is available at our Student Handbook published at NYP website via https://mynypportal.nyp.edu.sg/en/student-handbook.html.
+
+### AA04
+Question: how to apply for SOA (Statement of Absence)?
+- Go to STEPS (https://stms.polite.edu.sg)
+	• Select Request & Task on the left panel
+	• Click on the button "Raise request" with Nanyang Polytechnic
+	• Select LOA for Assessments
+	• Indicate the Start date and End date of Leave of Absence
+	• Indicate the Assessment Component that you were absent from
+	• Then click on the submit button with the supporting documents
+
+### AA05
+Question: If I am absent from my examination, when must I submit my medical certificate (MC)?
+- With effect from 1 August 2019, you are required to update your absence from classes and all assessments including examinations immediately via the Statement of Absence (SOA) System in the Student Portal.
+- In addition, you must submit the original documentary evidence, such as medical certificates, within two (2) working days from the last day of the absence to your school’s administration office. For example, if the last day of your absence is on a Friday, you must submit the original documentary evidence by Tuesday, 6pm.
+- Medical certificates must be endorsed by a medical practitioner registered with the Singapore Medical Council or a dental practitioner registered with the Singapore Dental Council, who should not be a family member. Medical certificates from Traditional Chinese Medicine (TCM) practitioners are not accepted.
+- Submission of a valid medical certificate does not guarantee that you can sit for an alternative assessment under existing policy. Unless otherwise permitted, you will have only one attempt at passing the alternative assessment.
+- For more information, please visit: https://asknyp.nyp.edu.sg
