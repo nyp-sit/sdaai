@@ -193,4 +193,7 @@ Question: If I am absent from my test/examination, when must I submit my medical
 ## AA06
 Question: What happen if I didn't have a valid reason for the absence to an assessment?
 - If you are absent from any assessment without a valid and acceptable reason, you are deemed to have sat and failed that assessment. For all assessments, including examinations, learners must submit original hardcopy documentary proof within two (2) working days from their last absence date to their School’s administration office during office hours. If the documentary proof was issued in softcopy, hardcopy submissions would not be required. Upon submission of a valid and acceptable reason for absenteeism, such as a medical certificate, an alternative assessment may be granted and shall be treated as the first and final attempt.
-- For more information, click on the Assessment Instructions to Learners Read More link via https://mynypportal.nyp.edu.sg/en/student-handbook/shb-academic-matters.html 
+- For more information:
+  - click on the Assessment Instructions to Learners Read More link via https://mynypportal.nyp.edu.sg/en/student-handbook/shb-academic-matters.html
+  - click on the Attendance Policy via https://mynypportal.nyp.edu.sg/en/student-handbook/shb-academic-matters.html
+
