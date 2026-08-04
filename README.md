@@ -61,6 +61,16 @@ It consists of the following sections:
 **Question**: Am I eligible for SSG subsidy?
 - Singapore Permanent Residents (SPR) will only be eligible for subsidy for first part-time diploma and first post diploma (i.e. first Advanced Diploma, first Specialist Diploma and first Diploma (Conversion) respectively. This is subjected to SPR not having previously attained a qualification at the diploma or higher level that was subsidised through a MOE subsidy or Government sponsorship. NYP reserves the right to reschedule/cancel any programme and amend the fees/info without prior notice. Refer to SSG Course Fee Funding & Eligibility for more information on the funding support: https://www.ssg.gov.sg/funding-and-levy/funding-for-individuals/ 
 
+### CF-Q2
+**Question**: How to apply if my company is sponsoring my course? 
+- Log in to STEP Company Portal: Use your Corppass to access the STEP company portal. 
+- Search for the Course: Look for the course you want to sponsor and click on it. You can apply for the course intake or for the intake under Course schedule. 
+- Apply for Sponsorship: Click ‘Apply’ on the left panel and select the course intake. Double-check the course dates before applying. 
+- Declare SME Status: If applicable, declare your company as a Small Medium Enterprise (SME) and provide any required supporting documents. 
+- Generate Application Link: After setting up the sponsorship information, generate an application link for your course application. 
+- Submit Application: Share the generated link with your employees or applicants for them to apply for the course. 
+- Track Application Status: Monitor the application status and ensure the sponsored employee submits their course application by the deadline. 
+- For more detailed guidance, refer to the official STEP resources: https://stms.polite.edu.sg/kp/company/index.htm#!Documents/stepcompanyportaloverview.htm 
 
 ## Course 
 
