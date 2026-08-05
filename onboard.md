@@ -12,6 +12,7 @@ Please refer to the appropriate section below. If you cannot find the right info
 - [Politemall Access](https://github.com/nyp-sit/sdaai/blob/main/onboard.md#politemall-access)
 - [Tutor Information](https://github.com/nyp-sit/sdaai/blob/main/onboard.md#tutor-information)
 - [Attendance](https://github.com/nyp-sit/sdaai/blob/main/onboard.md#attendance)
+- [Deferment And Withdrawal](https://github.com/nyp-sit/sdaai/blob/main/onboard.md#withdrawal-and-deferment)
 
 ## Onboarding Process
 
@@ -197,3 +198,7 @@ Question: What happen if I didn't have a valid reason for the absence to an asse
   - click on the Assessment Instructions to Learners Read More link via https://mynypportal.nyp.edu.sg/en/student-handbook/shb-academic-matters.html
   - click on the Attendance Policy via https://mynypportal.nyp.edu.sg/en/student-handbook/shb-academic-matters.html
 
+## Withdrawal And Deferment
+### WD01
+Question: How do I apply for deferment or withdrawal after I have started the course?
+- Please refer to this document for the procedure in STEP: https://for.edu.sg/course-deferment-withdrawal
