@@ -201,4 +201,8 @@ Question: What happen if I didn't have a valid reason for the absence to an asse
 ## Withdrawal And Deferment
 ### WD01
 Question: How do I apply for deferment or withdrawal after I have started the course?
-- Please refer to this document for the procedure in STEP: https://for.edu.sg/course-deferment-withdrawal
+- If you wish to withdraw or defer from your course of study, please login to STEP Student Portal, click [Request & task] on the left pane and select [Nanyang Polytechnic].
+- You can select one of the following:
+   - [Course Deferment]: If you planned to defer your study for 1 semester only and will resume your study in the subsequent semester.
+   - [Course Withdrawal]:If you do not wish to continue your study with this course any further.
+- Once submitted, it will be routed to the School for approval. You will receive an email and STEP notification once we have processed your request. 
