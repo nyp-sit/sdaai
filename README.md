@@ -89,7 +89,11 @@ It consists of the following sections:
 
 ### C-Q4
 **Question**: Is there an exam component to this or is it mostly project based?
-- The learning units will consist of tests and assignment. There is also a project-based learning unit where you will be working with 2 to 3 people on a proposed project with the guidance of project mentor(s). 
+- The learning units will consist of tests and assignment. There is also a project-based learning unit where you will be working with 2 to 3 people on a proposed project with the guidance of project mentor(s).
+
+### C-Q5
+**Question**: I have just applied. Would you mind sending me the detailed lesson timetable including class dates, times, delivery mode and assessment/project dates, please?
+- Once you have been accepted to the course, there will be a course briefing conducted by the Course Manager. You can watch out for the emails in your inbox. Detailed lesson timetable will be shared during the course briefing. 
 
 ## Credit Transfer
 
