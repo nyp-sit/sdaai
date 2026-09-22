@@ -116,12 +116,12 @@ It consists of the following sections:
 ## Attendance 
 
 ### ATT-Q1
-**Question**: What are the maximum number of classes that we may be allowed to miss in case of work exigencies? 
+**Question**: What are the maximum number of classes that we may be allowed to miss in case of work exigencies or travel plan? 
 - The minimum attendance is 50% for every module. If attendance is less than 50%, the student will get maximum a non-graded pass.
 
 ### ATT-Q2
 **Question**: Are the classes fixed on every Mon, Wed & Thurs from 6.30pm to 9.30pm? As I knock off from work only at 6pm, is there any penalty for late sign-in for classes either at NYP or online? 
-- There is no penalty for late sign-in. We are using SSG QR code attendance system, which allows student to sign in 30 minutes before the class starts and 30 minutes after the class ends. 
+- There is no penalty for late sign-in. We are using SSG QR code attendance system, which allows student to sign in 30 minutes before the class starts and 30 minutes after the class ends.
 
 ## Laptop Requirement
 
