@@ -12,6 +12,7 @@ It consists of the following sections:
 - [Laptop Requirement](https://github.com/nyp-sit/sdaai/#laptop-requirement)
 - [Progression](https://github.com/nyp-sit/sdaai/#progression)
 - [Student Card](https://github.com/nyp-sit/sdaai/#student-card)
+- [Onboarding](https://github.com/nyp-sit/sdaai/#onboarding)
 
 ## Course Application
 
@@ -172,4 +173,6 @@ It consists of the following sections:
 - The photo will be used to produce the NYP student card. Without the student card, you will not be able to access the laboratories, classrooms etc especially after office hours. 
 - The student card may also be used for identification during the conduct of Tests in campus. 
 
+## Onboarding
+If you have been accepted into the course and would like to know more about the frequently asked questions, please refer to this link: [Onboarding FAQ](https://github.com/nyp-sit/sdaai/blob/main/onboard.md)
 
